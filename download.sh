@@ -16,7 +16,7 @@ DATADIR="data"
 
 SCRIPT="html-csv.py"
 WGET="wget -qO "
-URL="http://ebird.org/ebird/printableList?regionCode=$CODE&yr=all&m="
+URL="http://ebird.org/ebird/printableList?regionCode=${CODE}&yr=all&m="
 
 # clear any previous download
 rm -f ${DATADIR}/${LOCATION}.{html,csv}

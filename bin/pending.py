@@ -19,12 +19,13 @@ class pending:
 
 		with open (fname, 'r') as f:
 			for line in f:
+				line = line.strip()
 				species = (line.split (','))[1]
 				self.dbase.update ( {species : score} )
 
 	def write (self):
-		self._load (True)
 		self._load (False)
+		self._load (True)
 
 		for key in self.dbase.keys():
 			if self.dbase.get (key):
