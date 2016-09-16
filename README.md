@@ -19,7 +19,7 @@ in Mysore or L2525708 is the LocID for Hessaraghatta Lakebed in Bangalore. LocID
 ebird.org
 
 ```
-bash download.sh L2525708 blore-hessaraghatta
+$ bash download.sh L2525708 blore-hessaraghatta
 ```
 
 This will download html, format in csv and store in data folder.
@@ -32,7 +32,7 @@ pending.py will produce a list of species that is available in a specific locati
 lifer list.
 
 ```
-python bin/pending.py data/lifer.csv data/L2525708-blore-hessaraghatta.csv
+$ python bin/pending.py data/lifer.csv data/L2525708-blore-hessaraghatta.csv
 ```
 
 Dependency
