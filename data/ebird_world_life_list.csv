@@ -1,392 +1,474 @@
 Row #,Species,Count,Location,S/P,Date,LocID,SubID
-1,Lesser Whistling-Duck,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-2,Graylag Goose,4,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
+1,Lesser Whistling-Duck,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+2,Graylag Goose,4,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
 3,Bar-headed Goose,500,Hadinaru Lake,IN-KA,08 Feb 2015,L3355147,S21779513
-4,Ruddy Shelduck,2,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-5,Cotton Pygmy-Goose,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-6,Gadwall,4,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-7,Eurasian Wigeon,2,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-8,Mallard,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-9,Indian Spot-billed Duck,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-10,Eastern Spot-billed Duck,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-11,Northern Shoveler,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-12,Northern Pintail,10,"Kunthur Lake, Kollegal",IN-KA,08 Feb 2015,L3355154,S21779516
-13,Garganey,2,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-14,Green-winged Teal,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-15,White-winged Duck,2,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-16,Tufted Duck,4,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-17,Common Merganser,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-18,Indian Peafowl,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-19,Red Spurfowl,1,Bandipur NP--Forest Headquarters,IN-KA,23 Aug 2015,L2386799,S24948339
-20,Painted Spurfowl,1,Hampi,IN-KA,12 Nov 2015,L4022532,S26601604
-21,Jungle Bush-Quail,1,"Chunchi Falls, Karnataka",IN-KA,01 May 2015,L3603767,S23156572
-22,Gray Francolin,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-23,Red Junglefowl,1,Kaziranga NP--Western Range,IN-AS,27 Dec 2015,L1131604,S26580943
-24,Gray Junglefowl,1,Valley School,IN-KA,29 Mar 2015,L2407941,S22568085
-25,Little Grebe,4,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-26,Asian Openbill,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-27,Black Stork,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-28,Woolly-necked Stork,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-29,Black-necked Stork,1,Kaziranga NP--Western Range,IN-AS,27 Dec 2015,L1131604,S26580943
-30,Lesser Adjutant,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-31,Greater Adjutant,1,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-32,Painted Stork,4,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-33,Little Cormorant,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-34,Great Cormorant,7,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-35,Indian Cormorant,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-36,Oriental Darter,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-37,American White Pelican,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
-38,Brown Pelican,2,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
-39,Spot-billed Pelican,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-40,Yellow Bittern,1,"Avathanapatti Lake, Krishnagiri",IN-TN,02 Jul 2016,L2777256,S30522108
-41,Black Bittern,2,"Avathanapatti Lake, Krishnagiri",IN-TN,02 Jul 2016,L2777256,S30522108
-42,Gray Heron,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-43,Purple Heron,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-44,Great Egret,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-45,Intermediate Egret,3,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-46,Little Egret,11,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-47,Snowy Egret,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
-48,Cattle Egret,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-49,Indian Pond-Heron,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-50,Black-crowned Night-Heron,4,"Bannerghatta Zoo Area, Bangalore",IN-KA,18 Jan 2015,L2576683,S21393248
-51,Glossy Ibis,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-52,Black-headed Ibis,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-53,Red-naped Ibis,5,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-54,Eurasian Spoonbill,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
-55,Osprey,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
-56,Black-shouldered Kite,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-57,Egyptian Vulture,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-58,Oriental Honey-buzzard,1,Gulakamale Lake,IN-KA,18 Jan 2015,L3270308,S21391759
-59,Red-headed Vulture,1,Bandipur Jungle Lodges,IN-KA,22 Aug 2015,L3867994,S24749677
-60,White-rumped Vulture,2,Bandipur Jungle Lodges,IN-KA,22 Aug 2015,L3867994,S24749677
-61,Indian Vulture,1,Ramanagara Vulture Sanctuary,IN-KA,07 Feb 2015,L3601857,S23141984
-62,Himalayan Griffon,1,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-63,Eurasian Griffon,6,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-64,Crested Serpent-Eagle,1,Ranganthittu Bird Santuary,IN-KA,05 Apr 2015,L3540081,S22696819
-65,Short-toed Snake-Eagle,1,"Galibore Fishing Camp, Karnataka",IN-KA,19 Apr 2015,L3556994,S22938127
-66,Changeable Hawk-Eagle,1,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-67,Crested Hawk-Eagle,1,"Galibore Fishing Camp, Karnataka",IN-KA,19 Apr 2015,L3556994,S22938127
-68,Black Eagle,1,"Manchanabele, Bangalore",IN-KA,06 Sep 2015,L3853140,S24947787
-69,Indian Spotted Eagle,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-70,Greater Spotted Eagle,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
-71,Booted Eagle,1,"Savanadurga State Forest, Karnataka",IN-KA,06 Sep 2015,L3894016,S24947802
-72,Tawny Eagle,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-73,Bonelli's Eagle,2,Bande,IN-KA,20 Feb 2016,L4298778,S31560423
-74,White-eyed Buzzard,1,"Galibore Fishing Camp, Karnataka",IN-KA,19 Apr 2015,L3556994,S22938127
-75,Eurasian Marsh-Harrier,3,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-76,Pallid Harrier,,Bande,IN-KA,27 Feb 2016,L4313934,S31559561
-77,Crested Goshawk,1,Dr Salim Ali Bird Sanctuary Thattekad,IN-KL,03 Oct 2015,L3953611,S25388771
-78,Shikra,1,Gulakamale Lake,IN-KA,18 Jan 2015,L3270308,S21391759
-79,Black Kite,,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-80,Brahminy Kite,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-81,Pallas's Fish-Eagle,1,Kaziranga NP--Western Range,IN-AS,27 Dec 2015,L1131604,S26580943
-82,Lesser Fish-Eagle,1,"Galibore Fishing Camp, Karnataka",IN-KA,11 Apr 2015,L3556994,S22813096
-83,Gray-headed Fish-Eagle,1,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-84,White-breasted Waterhen,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-85,Ruddy-breasted Crake,1,Hennagara Lake,IN-KA,29 Mar 2016,L2638593,S30464585
-86,Brown Crake,1,"Sloth Bear Resort, JungleLodges",IN-KA,10 Nov 2015,L4022520,S26601607
-87,Gray-headed Swamphen,,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-88,Eurasian Moorhen,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-89,Eurasian Coot,,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-90,Limpkin,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
-91,Demoiselle Crane,1,"Hulimangala, Bangalore",IN-KA,15 Dec 2015,L2591349,S26329322
-92,Indian Thick-knee,2,Ranganthittu Bird Santuary,IN-KA,05 Apr 2015,L3540081,S22696819
-93,Great Thick-knee,4,Ranganathittu Bird Sanctuary,IN-KA,13 Dec 2015,L2579365,S26601019
-94,Black-winged Stilt,4,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-95,Northern Lapwing,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-96,River Lapwing,3,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-97,Yellow-wattled Lapwing,1,Hessaraghatta Lake,IN-KA,11 Oct 2015,L2525708,S25388342
-98,Gray-headed Lapwing,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-99,Red-wattled Lapwing,3,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-100,Lesser Sand-Plover,10,Muzhappilangad Beach,IN-KL,27 Mar 2016,L3077663,S31459805
-101,Kentish Plover,10,Muzhappilangad Beach,IN-KL,27 Mar 2016,L3077663,S31459805
-102,Little Ringed Plover,2,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-103,Greater Painted-Snipe,1,"Avathanapatti Lake, Krishnagiri",IN-TN,02 Jul 2016,L2777256,S30522108
-104,Pheasant-tailed Jacana,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-105,Bronze-winged Jacana,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-106,Eurasian Curlew,4,Muzhappilangad Beach,IN-KL,27 Mar 2016,L3077663,S31459805
-107,Black-tailed Godwit,1,Dhanagere Lake,IN-KA,22 Feb 2015,L3439139,S22071722
-108,Temminck's Stint,1,"Madhure Kere, Bangalore",IN-KA,13 Mar 2016,L2525563,S28482414
-109,Little Stint,1,"Madhure Kere, Bangalore",IN-KA,13 Mar 2016,L2525563,S28482414
-110,Common Snipe,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-111,Terek Sandpiper,2,Muzhappilangad Beach,IN-KL,27 Mar 2016,L3077663,S31459805
-112,Common Sandpiper,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-113,Green Sandpiper,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-114,Common Greenshank,1,Chitradurga Hospet road,IN-KA,10 Nov 2015,L4022561,S26601608
-115,Marsh Sandpiper,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-116,Wood Sandpiper,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-117,Common Redshank,1,"Madhure Kere, Bangalore",IN-KA,13 Mar 2016,L2525563,S28482414
-118,Barred Buttonquail,5,"Canal Road, Hampi",IN-KA,11 Nov 2015,L4022522,S26601605
-119,Indian Courser,11,Jayamangali Blackbuck Reserve,IN-KA,14 Aug 2016,L2407928,S31275250
-120,Small Pratincole,2,Hessaraghatta Lake,IN-KA,11 Oct 2015,L2525708,S25388342
-121,Laughing Gull,10,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
-122,Whiskered Tern,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-123,River Tern,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-124,Royal Tern,4,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
-125,Sandwich Tern,2,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
-126,Chestnut-bellied Sandgrouse,10,"Canal Road, Hampi",IN-KA,11 Nov 2015,L4022522,S26601605
-127,Painted Sandgrouse,2,"Canal Road, Hampi",IN-KA,11 Nov 2015,L4022522,S26601605
-128,Rock Pigeon,,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-129,Oriental Turtle-Dove,1,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-130,Eurasian Collared-Dove,5,NH209 Kanakapura Road,IN-KA,22 Feb 2015,L3439068,S22071661
-131,Red Collared-Dove,1,IN-WB-Coochbehar-Khagrabari,IN-WB,21 Jun 2015,L3975074,S25556459
-132,Spotted Dove,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-133,Laughing Dove,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-134,Barred Cuckoo-Dove,1,Nameri NP,IN-AS,30 Dec 2015,L2182902,S26580921
-135,Asian Emerald Dove,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-136,Mourning Dove,2,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
-137,Gray-fronted Green-Pigeon,1,"Bhagavathi Nature Camp, Kudremukh",IN-KA,19 Sep 2015,L3922057,S25131137
-138,Ashy-headed Green-Pigeon,1,Nameri NP,IN-AS,30 Dec 2015,L2182902,S26580921
-139,Yellow-footed Pigeon,6,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-140,Pin-tailed Pigeon,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-141,Wedge-tailed Pigeon,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-142,Green Imperial-Pigeon,1,Dr Salim Ali Bird Sanctuary Thattekad,IN-KL,03 Oct 2015,L3953611,S25388771
-143,Mountain Imperial-Pigeon,1,"K Gudi, BR Hills, KA",IN-KA,26 Sep 2015,L3934022,S31574698
-144,Greater Coucal,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
-145,Sirkeer Malkoha,1,Hampi,IN-KA,12 Nov 2015,L4022532,S26601604
-146,Blue-faced Malkoha,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-147,Green-billed Malkoha,1,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-148,Pied Cuckoo,1,"Manchanabele, Karnataka",IN-KA,16 May 2015,L3646725,S23467965
-149,Asian Koel,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
-150,Asian Emerald Cuckoo,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-151,Banded Bay Cuckoo,1,Valley School,IN-KA,15 Nov 2015,L2407941,S25835476
-152,Gray-bellied Cuckoo,,"Jaipurdodi, Bangalore",IN-KA,29 May 2016,L2612150,S30033282
-153,Common Hawk-Cuckoo,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
-154,Indian Cuckoo,1,"Bheemeswari Cauvery WLS, KA",IN-KA,25 Sep 2015,L3932394,S25225071
-155,Common Cuckoo,1,Bandipur Jungle Lodges,IN-KA,22 Aug 2015,L3867994,S24749677
-156,Rock Eagle-Owl,3,"Canal Road, Hampi",IN-KA,11 Nov 2015,L4022522,S26601605
-157,Spot-bellied Eagle-Owl,1,Bandipur NP--Forest Headquarters,IN-KA,23 Aug 2015,L2386799,S24948339
-158,Brown Fish-Owl,1,Bandipur NP--Forest Headquarters,IN-KA,23 Aug 2015,L2386799,S24948339
-159,Asian Barred Owlet,1,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-160,Jungle Owlet,1,"K Gudi, BR Hills, KA",IN-KA,26 Sep 2015,L3934022,S31574698
-161,Spotted Owlet,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-162,Sri Lanka Frogmouth,1,Dr Salim Ali Bird Sanctuary Thattekad,IN-KL,03 Oct 2015,L3953611,S25388771
-163,Jerdon's Nightjar,,"Avathanapatti Lake, Krishnagiri",IN-TN,02 Jul 2016,L2777256,S30522108
-164,Indian Nightjar,1,"Manchanabele, Bangalore",IN-KA,16 Aug 2015,L3853140,S24641592
-165,White-rumped Needletail,1,"Thattekad Bird Sanctuary, Kerala",IN-KL,02 Oct 2015,L3953592,S25388751
-166,Alpine Swift,1,Valley School,IN-KA,26 Jan 2015,L2407941,S21547306
-167,Little Swift,1,"Bhagavathi Nature Camp, Kudremukh",IN-KA,19 Sep 2015,L3922057,S25131137
-168,Asian Palm-Swift,3,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-169,Crested Treeswift,1,"Thattekad Bird Sanctuary, Kerala",IN-KL,02 Oct 2015,L3953592,S25388751
-170,Eurasian Hoopoe,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-171,Indian Gray Hornbill,2,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-172,Malabar Gray Hornbill,1,"River Tern Lodge, JLR, Karnataka",IN-KA,23 May 2015,L3684021,S23703523
-173,Malabar Pied-Hornbill,1,"Bhadra WLS, Karnataka",IN-KA,24 May 2015,L3894783,S24954247
-174,Common Kingfisher,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-175,Stork-billed Kingfisher,1,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-176,White-throated Kingfisher,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-177,Black-capped Kingfisher,1,"Galibore Fishing Camp, Karnataka",IN-KA,19 Apr 2015,L3556994,S22938127
-178,Pied Kingfisher,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-179,Blue-bearded Bee-eater,1,"Bannerghatta Zoo Area, Bangalore",IN-KA,18 Jan 2015,L2576683,S21393248
-180,Green Bee-eater,2,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-181,Blue-tailed Bee-eater,8,NH209 Kanakapura Road,IN-KA,22 Feb 2015,L3439068,S22071661
-182,Chestnut-headed Bee-eater,2,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-183,Indian Roller,3,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-184,Dollarbird,1,Dr Salim Ali Bird Sanctuary Thattekad,IN-KL,04 Oct 2015,L3953611,S25388951
-185,Coppersmith Barbet,1,Valley School,IN-KA,18 Jan 2015,L2407941,S21393253
-186,Great Barbet,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-187,Lineated Barbet,1,Kaziranga NP--Western Range,IN-AS,27 Dec 2015,L1131604,S26580943
-188,Brown-headed Barbet,1,Muthathi,IN-KA,26 Jun 2016,L4743747,S30522104
-189,White-cheeked Barbet,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
-190,Blue-throated Barbet,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-191,Eurasian Wryneck,1,"Bhandup Pumping Station, Mumbai",IN-MH,05 Nov 2015,L2930709,S25835490
-192,Red-bellied Woodpecker,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
-193,Brown-capped Woodpecker,1,"Galibore Fishing Camp, Karnataka",IN-KA,19 Apr 2015,L3556994,S22938127
-194,Gray-capped Woodpecker,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-195,Fulvous-breasted Woodpecker,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-196,Yellow-crowned Woodpecker,,"Jaipurdodi, Bangalore",IN-KA,29 May 2016,L2612150,S30033282
-197,Downy Woodpecker,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
-198,White-bellied Woodpecker,1,"River Tern Lodge, JLR, Karnataka",IN-KA,23 May 2015,L3684021,S23703523
-199,Lesser Yellownape,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-200,Streak-throated Woodpecker,1,Bandipur NP--Forest Headquarters,IN-KA,23 Aug 2015,L2386799,S24948339
-201,Himalayan Flameback,1,IN-WB-Coochbehar-Khagrabari,IN-WB,21 Jun 2015,L3975074,S25556459
-202,Common Flameback,1,"Bhadra WLS, Karnataka",IN-KA,24 May 2015,L3894783,S24954247
-203,Black-rumped Flameback,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-204,Rufous Woodpecker,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-205,Greater Flameback,1,Bandipur NP--Forest Headquarters,IN-KA,23 Aug 2015,L2386799,S24948339
-206,White-naped Woodpecker,,Ravuthenahalli Lake,IN-KA,31 Jan 2016,L4922237,S27245470
-207,Heart-spotted Woodpecker,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-208,Eurasian Kestrel,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-209,Red-necked Falcon,,Bande,IN-KA,27 Feb 2016,L4313934,S31559561
-210,Peregrine Falcon,1,"Hulimangala, Bangalore",IN-KA,15 Dec 2015,L2591349,S26329322
-211,Alexandrine Parakeet,1,Gulakamale Lake,IN-KA,18 Jan 2015,L3270308,S21391759
-212,Rose-ringed Parakeet,7,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-213,Plum-headed Parakeet,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-214,Malabar Parakeet,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-215,Red-breasted Parakeet,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-216,Vernal Hanging-Parrot,1,Nameri NP,IN-AS,30 Dec 2015,L2182902,S26580921
-217,Silver-breasted Broadbill,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-218,Indian Pitta,1,"Galibore Fishing Camp, Karnataka",IN-KA,11 Apr 2015,L3556994,S22813096
-219,Common Woodshrike,,"Jaipurdodi, Bangalore",IN-KA,29 May 2016,L2612150,S30033282
-220,Ashy Woodswallow,1,"River Tern Lodge, JLR, Karnataka",IN-KA,23 May 2015,L3684021,S23703523
-221,Common Iora,1,Valley School,IN-KA,26 Jan 2015,L2407941,S21547306
-222,White-bellied Minivet,2,Linganapura,IN-KA,16 Jul 2016,L4796102,S30742509
-223,Small Minivet,1,Valley School,IN-KA,18 Jan 2015,L2407941,S21393253
-224,Gray-chinned Minivet,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-225,Long-tailed Minivet,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-226,Orange Minivet,2,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-227,Scarlet Minivet,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-228,Large Cuckooshrike,1,Valley School,IN-KA,29 Mar 2015,L2407941,S22568085
-229,Black-headed Cuckooshrike,1,Valley School,IN-KA,17 Sep 2015,L2407941,S25076232
-230,Brown Shrike,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-231,Bay-backed Shrike,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-232,Long-tailed Shrike,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-233,Gray-backed Shrike,1,"Gibbon Sanctuary, Assam",IN-AS,27 Dec 2015,L4275893,S27604851
-234,White-eyed Vireo,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
-235,Indian Golden Oriole,1,Valley School,IN-KA,18 Jan 2015,L2407941,S21393253
-236,Black-naped Oriole,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
-237,Black-hooded Oriole,1,"K Gudi, BR Hills, KA",IN-KA,26 Sep 2015,L3934022,S31574698
-238,Maroon Oriole,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-239,Black Drongo,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-240,Ashy Drongo,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-241,White-bellied Drongo,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-242,Bronzed Drongo,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-243,Lesser Racket-tailed Drongo,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-244,Spangled Drongo,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-245,Greater Racket-tailed Drongo,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-246,White-throated Fantail,1,"Gibbon Sanctuary, Assam",IN-AS,27 Dec 2015,L4275893,S27604851
-247,Spot-breasted Fantail,2,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-248,White-browed Fantail,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-249,Black-naped Monarch,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-250,Indian Paradise-Flycatcher,2,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-251,Blue Jay,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
-252,Rufous Treepie,1,Valley School,IN-KA,26 Jan 2015,L2407941,S21547306
-253,White-bellied Treepie,1,Dr Salim Ali Bird Sanctuary Thattekad,IN-KL,03 Oct 2015,L3953611,S25388771
-254,House Crow,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-255,Large-billed Crow,1,Uttarahalli Lake,IN-KA,31 Jan 2015,L3328368,S21609757
-256,Rufous-tailed Lark,1,NH209 Kanakapura Road,IN-KA,22 Feb 2015,L3439068,S22071661
-257,Ashy-crowned Sparrow-Lark,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-258,Jerdon's Bushlark,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-259,Indian Bushlark,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-260,Greater Short-toed Lark,1,Thippagondanahalli (TG Halli) Reservoir,IN-KA,18 Oct 2015,L2525564,S31560055
-261,Oriental Skylark,1,Hennagara Lake,IN-KA,26 Mar 2016,L2638593,S31221243
-262,Tawny Lark,1,Thippagondanahalli (TG Halli) Reservoir,IN-KA,18 Oct 2015,L2525564,S31560055
-263,Dusky Crag-Martin,3,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-264,Barn Swallow,10,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-265,Wire-tailed Swallow,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-266,Red-rumped Swallow,18,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-267,Streak-throated Swallow,,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-268,Gray-headed Canary-Flycatcher,3,"Gibbon Sanctuary, Assam",IN-AS,27 Dec 2015,L4275893,S27604851
-269,Sultan Tit,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-270,Green-backed Tit,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
-271,Cinereous Tit,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-272,Indian Tit,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-273,Black-throated Tit,1,"Lava, Darjeeling district ",IN-WB,20 Jun 2015,L4907244,S31459801
-274,Indian Nuthatch,1,"K Gudi, BR Hills, KA",IN-KA,26 Sep 2015,L3934022,S31574698
-275,Chestnut-bellied Nuthatch,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-276,Velvet-fronted Nuthatch,1,"Bhagavathi Nature Camp, Kudremukh",IN-KA,19 Sep 2015,L3922057,S25131137
-277,Flame-throated Bulbul,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-278,Black-crested Bulbul,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-279,Red-vented Bulbul,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-280,Red-whiskered Bulbul,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-281,White-eared Bulbul,1,"Bhandup Pumping Station, Mumbai",IN-MH,05 Nov 2015,L2930709,S25835490
-282,Yellow-throated Bulbul,3,Ramanagara Vulture Sanctuary,IN-KA,07 Feb 2015,L3601857,S23141984
-283,White-browed Bulbul,1,Gulakamale Lake,IN-KA,18 Jan 2015,L3270308,S21391759
-284,Yellow-browed Bulbul,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-285,Black Bulbul,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-286,Tickell's Leaf Warbler,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-287,Greenish Warbler,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-288,Tytler's Leaf Warbler,1,"Nandi Hills, Bangalore",IN-KA,21 Mar 2015,L3506052,S22466315
-289,Blyth's Leaf Warbler,1,"Gibbon Sanctuary, Assam",IN-AS,27 Dec 2015,L4275893,S27604851
-290,Booted Warbler,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-291,Paddyfield Warbler,1,Hennagara Lake,IN-KA,29 Mar 2016,L2638593,S30464585
-292,Blyth's Reed-Warbler,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-293,Clamorous Reed-Warbler,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-294,Zitting Cisticola,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-295,Common Tailorbird,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-296,Dark-necked Tailorbird,1,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-297,Rufous-fronted Prinia,1,"River Tern Lodge, JLR, Karnataka",IN-KA,23 May 2015,L3684021,S23703523
-298,Gray-breasted Prinia,1,"Manchanabele, Karnataka",IN-KA,16 May 2015,L3646725,S23467965
-299,Jungle Prinia,1,Valley School,IN-KA,29 Aug 2015,L2407941,S24801834
-300,Ashy Prinia,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-301,Plain Prinia,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-302,Hume's Whitethroat,1,"Madhure Kere, Bangalore",IN-KA,13 Mar 2016,L2525563,S28482414
-303,Yellow-eyed Babbler,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-304,Oriental White-eye,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-305,Tawny-bellied Babbler,1,"Nandi Hills, Bangalore",IN-KA,21 Mar 2015,L3506052,S22466315
-306,Dark-fronted Babbler,1,"Bhagavathi Nature Camp, Kudremukh",IN-KA,19 Sep 2015,L3922057,S25131137
-307,Indian Scimitar-Babbler,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-308,Puff-throated Babbler,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-309,Abbott's Babbler,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-310,Brown-cheeked Fulvetta,1,"Bhagavathi Nature Camp, Kudremukh",IN-KA,19 Sep 2015,L3922057,S25131137
-311,Striated Laughingthrush,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
-312,Common Babbler,1,"Sloth Bear Resort, JungleLodges",IN-KA,10 Nov 2015,L4022520,S26601607
-313,Large Gray Babbler,1,Valley School,IN-KA,26 Jan 2015,L2407941,S21547306
-314,Rufous Babbler,1,Valley School,IN-KA,05 Sep 2015,L2407941,S24921501
-315,Jungle Babbler,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-316,Yellow-billed Babbler,1,"Nandi Hills, Bangalore",IN-KA,21 Mar 2015,L3506052,S22466315
-317,Red-billed Leiothrix,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
-318,Asian Fairy-bluebird,1,"Bhagavathi Nature Camp, Kudremukh",IN-KA,19 Sep 2015,L3922057,S25131137
-319,Asian Brown Flycatcher,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-320,Brown-breasted Flycatcher,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-321,Indian Robin,5,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-322,Oriental Magpie-Robin,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-323,White-rumped Shama,1,Valley School,IN-KA,26 Jan 2015,L2407941,S21547306
-324,White-bellied Blue-Flycatcher,2,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-325,Tickell's Blue-Flycatcher,1,"Bannerghatta Zoo Area, Bangalore",IN-KA,18 Jan 2015,L2576683,S21393248
-326,Large Niltava,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-327,Small Niltava,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-328,Verditer Flycatcher,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-329,Indian Blue Robin,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-330,Blue Whistling-Thrush,1,"Lava, Darjeeling district ",IN-WB,20 Jun 2015,L4907244,S31459801
-331,Little Pied Flycatcher,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-332,Ultramarine Flycatcher,1,"Bannerghatta Zoo Area, Bangalore",IN-KA,18 Jan 2015,L2576683,S21393248
-333,Taiga Flycatcher,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-334,Red-breasted Flycatcher,1,"Nandi Hills, Bangalore",IN-KA,21 Mar 2015,L3506052,S22466315
-335,Chestnut-bellied Rock-Thrush,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
-336,Blue-capped Rock-Thrush,2,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-337,Blue Rock-Thrush,1,Ramanagara Vulture Sanctuary,IN-KA,07 Feb 2015,L3601857,S23141984
-338,Siberian Stonechat,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-339,Pied Bushchat,5,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-340,Gray Bushchat,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
-341,Pied Thrush,1,"Nandi Hills, Bangalore",IN-KA,21 Mar 2015,L3506052,S22466315
-342,Orange-headed Thrush,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-343,Scaly Thrush,1,Nameri NP,IN-AS,30 Dec 2015,L2182902,S26580921
-344,Black-breasted Thrush,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-345,Gray-winged Blackbird,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
-346,Indian Blackbird,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-347,Green Cochoa,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-348,Common Hill Myna,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-349,Southern Hill Myna,1,"Bhagavathi Nature Camp, Kudremukh",IN-KA,19 Sep 2015,L3922057,S25131137
-350,Rosy Starling,10,Valley School,IN-KA,26 Jan 2015,L2407941,S21547306
-351,Asian Pied Starling,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-352,Brahminy Starling,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
-353,Chestnut-tailed Starling,2,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
-354,Malabar Starling,1,Dr Salim Ali Bird Sanctuary Thattekad,IN-KL,03 Oct 2015,L3953611,S25388771
-355,Common Myna,,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-356,Bank Myna,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-357,Jungle Myna,1,"Rasikbill, Coochbehar, WB",IN-WB,25 Dec 2013,L3663562,S23577191
-358,Jerdon's Leafbird,1,"Cubbon Park, Bangalore",IN-KA,08 Mar 2015,L2525703,S22227435
-359,Golden-fronted Leafbird,3,shivanahalli,IN-KA,22 Mar 2015,L3489123,S22466317
-360,Orange-bellied Leafbird,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-361,Thick-billed Flowerpecker,1,Valley School,IN-KA,10 Oct 2015,L2407941,S25389222
-362,Pale-billed Flowerpecker,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-363,Nilgiri Flowerpecker,1,Bandipur Jungle Lodges,IN-KA,22 Aug 2015,L3867994,S24749677
-364,Ruby-cheeked Sunbird,1,Kaziranga National Park - Eastern Range,IN-AS,28 Dec 2015,L4723955,S30342446
-365,Purple-rumped Sunbird,3,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-366,Crimson-backed Sunbird,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-367,Purple Sunbird,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-368,Long-billed Sunbird,1,"Galibore Fishing Camp, Karnataka",IN-KA,19 Apr 2015,L3556994,S22938127
-369,Green-tailed Sunbird,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
-370,Crimson Sunbird,1,IN-WB-Coochbehar-Khagrabari,IN-WB,21 Jun 2015,L3975074,S25556459
-371,Streaked Spiderhunter,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
-372,Western Yellow Wagtail,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-373,Gray Wagtail,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-374,White Wagtail,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
-375,White-browed Wagtail,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-376,Paddyfield Pipit,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-377,Long-billed Pipit,1,"Ramdevara Betta, Ramanagara",IN-KA,28 Feb 2016,L2573077,S31559597
-378,Tree Pipit,7,Thippagondanahalli (TG Halli) Reservoir,IN-KA,24 Jan 2016,L2525564,S31561984
-379,Olive-backed Pipit,1,"Nandi Hills, Bangalore",IN-KA,21 Mar 2015,L3506052,S22466315
-380,Northern Cardinal,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
-381,House Sparrow,4,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-382,Eurasian Tree Sparrow,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
-383,Chestnut-shouldered Petronia,2,Linganapura,IN-KA,16 Jul 2016,L4796102,S30742509
-384,Streaked Weaver,,Bande,IN-KA,20 Feb 2016,L4298778,S31560423
-385,Baya Weaver,1,Ranganthittu Bird Santuary,IN-KA,05 Apr 2015,L3540081,S22696819
-386,Red Avadavat,4,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-387,Indian Silverbill,4,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-388,White-rumped Munia,1,Ganeshgudi Jungle Lodge,IN-KA,15 Jan 2014,L2567187,S23676592
-389,Black-throated Munia,1,"Bhagavathi Nature Camp, Kudremukh",IN-KA,19 Sep 2015,L3922057,S25131137
-390,Scaly-breasted Munia,6,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
-391,Tricolored Munia,5,"Manchanabele, Bangalore",IN-KA,16 Aug 2015,L3853140,S24641592
+4,Comb Duck,2,Hennagara Lake,IN-KA,04 Nov 2016,L2638593,S32361185
+5,Ruddy Shelduck,2,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
+6,Cotton Pygmy-Goose,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+7,Gadwall,4,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+8,Falcated Duck,1,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+9,Eurasian Wigeon,2,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+10,Mallard,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+11,Indian Spot-billed Duck,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+12,Eastern Spot-billed Duck,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+13,Northern Shoveler,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
+14,Northern Pintail,10,"Kunthur Lake, Kollegal",IN-KA,08 Feb 2015,L3355154,S21779516
+15,Garganey,2,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
+16,Green-winged Teal,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
+17,White-winged Duck,2,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+18,Red-crested Pochard,4,Rasik beel,IN-WB,13 Dec 2016,L5148097,S33023464
+19,Common Pochard,2,Rasik beel,IN-WB,13 Dec 2016,L5148097,S33023464
+20,Ferruginous Duck,2,Rasik beel,IN-WB,13 Dec 2016,L5148097,S33023464
+21,Tufted Duck,5,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+22,Common Merganser,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+23,Indian Peafowl,1,"River Tern Lodge, JLR, Karnataka",IN-KA,23 May 2015,L3684021,S23703523
+24,Red Spurfowl,1,Bandipur NP--Forest Headquarters,IN-KA,23 Aug 2015,L2386799,S24948339
+25,Painted Spurfowl,1,Hampi,IN-KA,12 Nov 2015,L4022532,S26601604
+26,Jungle Bush-Quail,1,"Chunchi Falls, Karnataka",IN-KA,01 May 2015,L3603767,S23156572
+27,Gray Francolin,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+28,Red Junglefowl,1,Kaziranga NP--Western Range,IN-AS,27 Dec 2015,L1131604,S26580943
+29,Gray Junglefowl,1,Valley School,IN-KA,29 Mar 2015,L2407941,S22568085
+30,Little Grebe,4,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+31,Great Crested Grebe,4,"Teesta Barrage, Gajoldoba",IN-WB,17 Dec 2016,L2648520,S33129670
+32,Chilean Flamingo,1,San Francisco Zoo,US-CA,30 Aug 2010,L638260,S32587693
+33,Greater Flamingo,100,Pulicat Bird Sanctuary--SHAR,IN-AP,06 Mar 2016,L3167817,S31729829
+34,Asian Openbill,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+35,Black Stork,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+36,Woolly-necked Stork,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+37,Black-necked Stork,1,"Alipore Zoo, Kolkata",IN-WB,08 Feb 2006,L2715112,S31717230
+38,Lesser Adjutant,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+39,Greater Adjutant,1,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+40,Painted Stork,4,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+41,Little Cormorant,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+42,Great Cormorant,7,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+43,Indian Cormorant,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+44,Oriental Darter,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+45,American White Pelican,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
+46,Brown Pelican,2,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
+47,Spot-billed Pelican,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+48,Yellow Bittern,1,"Avathanapatti Lake, Krishnagiri",IN-TN,02 Jul 2016,L2777256,S30522108
+49,Black Bittern,2,"Avathanapatti Lake, Krishnagiri",IN-TN,02 Jul 2016,L2777256,S30522108
+50,Gray Heron,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
+51,Purple Heron,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
+52,Great Egret,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+53,Intermediate Egret,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+54,Little Egret,11,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+55,Western Reef-Heron,1,Hennagara Lake,IN-KA,06 Nov 2016,L2638593,S32396697
+56,Snowy Egret,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
+57,Cattle Egret,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+58,Indian Pond-Heron,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+59,Striated Heron,1,Madras Crocodile Bank Trust,IN-TN,25 Oct 2015,L1945692,S31674721
+60,Black-crowned Night-Heron,4,Bannerghatta Zoo area,IN-KA,18 Jan 2015,L2576683,S21393248
+61,Glossy Ibis,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+62,Black-headed Ibis,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+63,Red-naped Ibis,5,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+64,Eurasian Spoonbill,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
+65,Osprey,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
+66,Black-shouldered Kite,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+67,Egyptian Vulture,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+68,Oriental Honey-buzzard,1,"Hulimangala, Bangalore",IN-KA,16 Nov 2014,L2591349,S32125659
+69,Black Baza,1,Thattekad bird sanctuary Urulanthanni,IN-KL,05 Mar 2017,L5719986,S36093641
+70,Red-headed Vulture,1,Bandipur Jungle Lodges,IN-KA,22 Aug 2015,L3867994,S24749677
+71,White-rumped Vulture,2,Bandipur Jungle Lodges,IN-KA,22 Aug 2015,L3867994,S24749677
+72,Indian Vulture,1,Ramanagara Vulture Sanctuary,IN-KA,07 Feb 2015,L3601857,S23141984
+73,Slender-billed Vulture,5,Panidihing Bird Sanctuary,IN-AS,11 Apr 2016,L5089484,S32606784
+74,Himalayan Griffon,1,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+75,Eurasian Griffon,6,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+76,Crested Serpent-Eagle,1,Ranganthittu Bird Santuary,IN-KA,05 Apr 2015,L3540081,S22696819
+77,Short-toed Snake-Eagle,1,"Galibore Fishing Camp, Karnataka",IN-KA,19 Apr 2015,L3556994,S22938127
+78,Changeable Hawk-Eagle,1,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+79,Crested Hawk-Eagle,1,"Galibore Fishing Camp, Karnataka",IN-KA,19 Apr 2015,L3556994,S22938127
+80,Black Eagle,1,"Manchanabele, Bangalore",IN-KA,06 Sep 2015,L3853140,S24947787
+81,Indian Spotted Eagle,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+82,Greater Spotted Eagle,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
+83,Booted Eagle,1,"Savanadurga State Forest, Karnataka",IN-KA,06 Sep 2015,L3894016,S24947802
+84,Tawny Eagle,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+85,Bonelli's Eagle,2,Bande,IN-KA,20 Feb 2016,L4298778,S31560423
+86,White-eyed Buzzard,1,"Galibore Fishing Camp, Karnataka",IN-KA,19 Apr 2015,L3556994,S22938127
+87,Eurasian Marsh-Harrier,3,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+88,Eastern Marsh-Harrier,2,"Teesta Barrage, Gajoldoba",IN-WB,17 Dec 2016,L2648520,S33129670
+89,Pallid Harrier,1,Bellary Bangalore Road,IN-KA,12 Nov 2015,L4936902,S31672326
+90,Pied Harrier,1,"Fulbari Wetland, Siliguri",IN-WB,17 Dec 2016,L2640157,S33145995
+91,Montagu's Harrier,1,Hessaraghatta Grasslands,IN-KA,06 Oct 2016,L4170003,S31971749
+92,Crested Goshawk,1,Dr Salim Ali Bird Sanctuary Thattekad,IN-KL,03 Oct 2015,L3953611,S25388771
+93,Shikra,1,Gulakamale Lake,IN-KA,18 Jan 2015,L3270308,S21391759
+94,Black Kite,1,"Hulimangala, Bangalore",IN-KA,16 Nov 2014,L2591349,S32125659
+95,Brahminy Kite,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+96,White-bellied Sea-Eagle,2,Gangolli ,IN-KA,19 Feb 2017,L5662322,S35750338
+97,Pallas's Fish-Eagle,1,Kaziranga NP--Western Range,IN-AS,27 Dec 2015,L1131604,S26580943
+98,Bald Eagle,1,San Francisco Zoo,US-CA,30 Aug 2010,L638260,S32587693
+99,Lesser Fish-Eagle,1,Cauvery WLS--Galibore,IN-KA,11 Apr 2015,L3025529,S22813096
+100,Gray-headed Fish-Eagle,1,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+101,Slaty-breasted Rail,1,Hoskote Lake,IN-KA,23 Apr 2017,L1967106,S36817918
+102,White-breasted Waterhen,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+103,Ruddy-breasted Crake,1,Hennagara Lake,IN-KA,29 Mar 2016,L2638593,S30464585
+104,Brown Crake,1,Daroji Bear Sanctuary,IN-KA,10 Nov 2015,L2607098,S26601607
+105,Baillon's Crake,1,Hennagara Lake,IN-KA,31 Oct 2016,L2638593,S32308365
+106,Gray-headed Swamphen,,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+107,Eurasian Moorhen,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+108,Eurasian Coot,,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+109,Limpkin,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
+110,Demoiselle Crane,1,"Hulimangala, Bangalore",IN-KA,15 Dec 2015,L2591349,S26329322
+111,Sarus Crane,1,"Alipore Zoo, Kolkata",IN-WB,08 Feb 2006,L2715112,S31717230
+112,Indian Thick-knee,2,Ranganthittu Bird Santuary,IN-KA,05 Apr 2015,L3540081,S22696819
+113,Great Thick-knee,4,Ranganathittu Bird Sanctuary,IN-KA,13 Dec 2015,L2579365,S26601019
+114,Black-winged Stilt,4,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
+115,Eurasian Oystercatcher,7,Gangolli ,IN-KA,19 Feb 2017,L5662322,S35750338
+116,Black-bellied Plover,10,Kundapur estuary ,IN-KA,19 Feb 2017,L5719706,S36091649
+117,Pacific Golden-Plover,10,"Teesta Barrage, Gajoldoba",IN-WB,17 Dec 2016,L2648520,S33129670
+118,Northern Lapwing,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+119,River Lapwing,3,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+120,Yellow-wattled Lapwing,1,Hessaraghatta Lake,IN-KA,11 Oct 2015,L2525708,S25388342
+121,Gray-headed Lapwing,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+122,Red-wattled Lapwing,3,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+123,Lesser Sand-Plover,10,Muzhappilangad Beach,IN-KL,27 Mar 2016,L3077663,S31459805
+124,Greater Sand-Plover,2,Morjim Beach,IN-GA,14 Jan 2017,L2286170,S33797574
+125,Kentish Plover,10,Muzhappilangad Beach,IN-KL,27 Mar 2016,L3077663,S31459805
+126,Little Ringed Plover,2,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
+127,Greater Painted-Snipe,1,"Avathanapatti Lake, Krishnagiri",IN-TN,02 Jul 2016,L2777256,S30522108
+128,Pheasant-tailed Jacana,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+129,Bronze-winged Jacana,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+130,Whimbrel,2,Muzhappilangad Beach,IN-KL,27 Mar 2016,L3077663,S31459805
+131,Eurasian Curlew,4,Pulicat Bird Sanctuary--SHAR,IN-AP,06 Mar 2016,L3167817,S31729829
+132,Black-tailed Godwit,1,Dhanagere Lake,IN-KA,22 Feb 2015,L3439139,S22071722
+133,Bar-tailed Godwit,4,Gangolli ,IN-KA,19 Feb 2017,L5662322,S35750338
+134,Ruddy Turnstone,4,"Mattu, Udupi, Karnataka, IN",IN-KA,25 Dec 2016,L3115004,S33581846
+135,Broad-billed Sandpiper,2,Gangolli ,IN-KA,19 Feb 2017,L5662322,S35750338
+136,Curlew Sandpiper,1,"Kodi, Kundapura, Karnataka, India",IN-KA,25 Dec 2016,L3112538,S33362200
+137,Temminck's Stint,1,"Madhure Kere, Bangalore",IN-KA,13 Mar 2016,L2525563,S28482414
+138,Sanderling,2,Morjim Beach,IN-GA,14 Jan 2017,L2286170,S33797574
+139,Dunlin,1,"Teesta Barrage, Gajoldoba",IN-WB,17 Dec 2016,L2648520,S33129670
+140,Little Stint,,Pulicat Bird Sanctuary--SHAR,IN-AP,06 Mar 2016,L3167817,S31729829
+141,Common Snipe,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
+142,Pin-tailed Snipe,1,Hennagara Lake,IN-KA,31 Oct 2016,L2638593,S32308365
+143,Terek Sandpiper,2,Muzhappilangad Beach,IN-KL,27 Mar 2016,L3077663,S31459805
+144,Common Sandpiper,1,"Hulimangala, Bangalore",IN-KA,16 Nov 2014,L2591349,S32125659
+145,Green Sandpiper,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+146,Spotted Redshank,1,"Teesta Barrage, Gajoldoba",IN-WB,17 Dec 2016,L2648520,S33129670
+147,Common Greenshank,1,Chitradurga Hospet road,IN-KA,10 Nov 2015,L4022561,S26601608
+148,Willet,1,Naples beach,US-FL,21 Oct 2014,L3357295,S31717645
+149,Marsh Sandpiper,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+150,Wood Sandpiper,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
+151,Common Redshank,1,"Madhure Kere, Bangalore",IN-KA,13 Mar 2016,L2525563,S28482414
+152,Barred Buttonquail,5,Tungabhadra Right Canal,IN-KA,11 Nov 2015,L4873896,S26601605
+153,Indian Courser,11,Jayamangali Blackbuck Reserve,IN-KA,14 Aug 2016,L2407928,S31275250
+154,Oriental Pratincole,12,Tunga Bhadra backwaters ,IN-KA,25 Mar 2017,L5616343,S35434583
+155,Small Pratincole,2,Hessaraghatta Lake,IN-KA,11 Oct 2015,L2525708,S25388342
+156,Pomarine Jaeger,1,IN-Karnataka-Mangaluru-BMS Ferry Line - 12.859x74.832,IN-KA,18 Feb 2017,L5491087,S34603262
+157,Parasitic Jaeger,1,IN-Karnataka-Mangaluru-BMS Ferry Line - 12.859x74.832,IN-KA,18 Feb 2017,L5491087,S34603262
+158,Slender-billed Gull,1,"Kodi, Kundapura, Karnataka, India",IN-KA,25 Dec 2016,L3112538,S33362200
+159,Black-headed Gull,3,"Kodi, Kundapura, Karnataka, India",IN-KA,25 Dec 2016,L3112538,S33362200
+160,Brown-headed Gull,1,"Kumbhargoan Area, Bhigwan",IN-MH,23 Dec 2014,L4124304,S31685196
+161,Laughing Gull,10,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
+162,Pallas's Gull,1,Muzhappilangad Beach,IN-KL,27 Mar 2016,L3077663,S31459805
+163,California Gull,1,San Francisco Zoo,US-CA,30 Aug 2010,L638260,S32587693
+164,Caspian Gull,1,"Kodi, Kundapura, Karnataka, India",IN-KA,25 Dec 2016,L3112538,S33362200
+165,Lesser Black-backed Gull,3,"Kodi, Kundapura, Karnataka, India",IN-KA,25 Dec 2016,L3112538,S33362200
+166,Bridled Tern,1,IN-Karnataka-Mangaluru-BMS Ferry Line - 12.859x74.832,IN-KA,18 Feb 2017,L5491087,S34603262
+167,Little Tern,2,IN-Karnataka-Mangaluru-BMS Ferry Line - 12.859x74.832,IN-KA,18 Feb 2017,L5491087,S34603262
+168,Gull-billed Tern,2,Nochikuppam,IN-TN,06 Mar 2016,L4447093,S31730083
+169,Caspian Tern,4,Nochikuppam,IN-TN,06 Mar 2016,L4447093,S31730083
+170,Whiskered Tern,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
+171,Common Tern,3,IN-Karnataka-Mangaluru-BMS Ferry Line - 12.859x74.832,IN-KA,18 Feb 2017,L5491087,S34603262
+172,Black-bellied Tern,1,Dibru-Saikhowa NP,IN-AS,08 Apr 2016,L3612445,S33746355
+173,River Tern,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+174,Royal Tern,4,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
+175,Great Crested Tern,10,Kodi Kundapur,IN-KA,24 Dec 2016,L5188697,S33258598
+176,Sandwich Tern,2,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
+177,Lesser Crested Tern,4,Kodi Kundapur,IN-KA,24 Dec 2016,L5188697,S33258598
+178,Chestnut-bellied Sandgrouse,10,Tungabhadra Right Canal,IN-KA,11 Nov 2015,L4873896,S26601605
+179,Painted Sandgrouse,2,Tungabhadra Right Canal,IN-KA,11 Nov 2015,L4873896,S26601605
+180,Rock Pigeon,1,Waterfront park,US-WA,12 Mar 2014,L5248664,S33613876
+181,Nilgiri Wood-Pigeon,2,Nandi Hills,IN-KA,29 Mar 2017,L3150186,S35509850
+182,Oriental Turtle-Dove,1,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+183,Eurasian Collared-Dove,5,NH209 Kanakapura Road,IN-KA,22 Feb 2015,L3439068,S22071661
+184,Red Collared-Dove,1,Khagrabari,IN-WB,21 Jun 2015,L4938672,S25556459
+185,Spotted Dove,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+186,Laughing Dove,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+187,Barred Cuckoo-Dove,1,Nameri NP,IN-AS,30 Dec 2015,L2182902,S26580921
+188,Asian Emerald Dove,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+189,Mourning Dove,2,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
+190,Orange-breasted Pigeon,2,"West Bengal-Jayanti, BTR",IN-WB,11 Dec 2016,L4012351,S33129502
+191,Gray-fronted Green-Pigeon,1,"Bhagavathi Nature Camp, Kudremukh",IN-KA,19 Sep 2015,L3922057,S25131137
+192,Ashy-headed Green-Pigeon,1,Nameri NP,IN-AS,30 Dec 2015,L2182902,S26580921
+193,Thick-billed Pigeon,2,Gorubathan,IN-WB,19 Jun 2015,L4938776,S31685928
+194,Yellow-footed Pigeon,6,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+195,Pin-tailed Pigeon,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+196,Wedge-tailed Pigeon,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+197,Green Imperial-Pigeon,1,Dr Salim Ali Bird Sanctuary Thattekad,IN-KL,03 Oct 2015,L3953611,S25388771
+198,Mountain Imperial-Pigeon,1,"K Gudi, BR Hills, KA",IN-KA,26 Sep 2015,L3934022,S31574698
+199,Greater Coucal,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
+200,Sirkeer Malkoha,1,Hampi,IN-KA,12 Nov 2015,L4022532,S26601604
+201,Blue-faced Malkoha,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+202,Green-billed Malkoha,1,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+203,Pied Cuckoo,1,"Manchanabele, Karnataka",IN-KA,16 May 2015,L3646725,S23467965
+204,Asian Koel,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
+205,Asian Emerald Cuckoo,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+206,Banded Bay Cuckoo,1,Valley School,IN-KA,15 Nov 2015,L2407941,S25835476
+207,Gray-bellied Cuckoo,1,Bellary Bangalore Road,IN-KA,12 Nov 2015,L4936902,S31672326
+208,Common Hawk-Cuckoo,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
+209,Indian Cuckoo,1,Cauvery WLS--Bheemeshwari Fishing & Nature Camp,IN-KA,25 Sep 2015,L2709960,S25225071
+210,Common Cuckoo,1,Neora Valley National Park,IN-WB,20 Jun 2015,L3644134,S31716974
+211,Barn Owl,1,"Hulimangala, Bangalore",IN-KA,16 Nov 2014,L2591349,S32125659
+212,Rock Eagle-Owl,3,Tungabhadra Right Canal,IN-KA,11 Nov 2015,L4873896,S26601605
+213,Spot-bellied Eagle-Owl,1,Bandipur NP--Forest Headquarters,IN-KA,23 Aug 2015,L2386799,S24948339
+214,Brown Fish-Owl,1,Bandipur NP--Forest Headquarters,IN-KA,23 Aug 2015,L2386799,S24948339
+215,Asian Barred Owlet,1,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+216,Jungle Owlet,1,"K Gudi, BR Hills, KA",IN-KA,26 Sep 2015,L3934022,S31574698
+217,Spotted Owlet,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+218,Mottled Wood-Owl,2,Anjanapura green patch,IN-KA,19 Mar 2017,L5626194,S35494315
+219,Brown Boobook,1,Cauvery WLS--Galibore,IN-KA,11 Apr 2015,L3025529,S22813096
+220,Sri Lanka Frogmouth,1,Dr Salim Ali Bird Sanctuary Thattekad,IN-KL,03 Oct 2015,L3953611,S25388771
+221,Indian Nightjar,1,"Manchanabele, Bangalore",IN-KA,16 Aug 2015,L3853140,S24641592
+222,White-rumped Needletail,1,"Thattekad Bird Sanctuary, Kerala",IN-KL,02 Oct 2015,L3953592,S25388751
+223,Brown-backed Needletail,1,Thattekad bird sanctuary Urulanthanni,IN-KL,05 Mar 2017,L5719986,S36093641
+224,Alpine Swift,1,Valley School,IN-KA,26 Jan 2015,L2407941,S21547306
+225,Little Swift,1,"Bhagavathi Nature Camp, Kudremukh",IN-KA,19 Sep 2015,L3922057,S25131137
+226,Asian Palm-Swift,3,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+227,Crested Treeswift,1,"Thattekad Bird Sanctuary, Kerala",IN-KL,02 Oct 2015,L3953592,S25388751
+228,Malabar Trogon,1,"Old Magazine House, Ganeshgudi",IN-KA,24 Dec 2014,L2034087,S32865515
+229,Eurasian Hoopoe,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+230,Indian Gray Hornbill,2,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+231,Malabar Gray Hornbill,1,"Old Magazine House, Ganeshgudi",IN-KA,24 Dec 2014,L2034087,S32865515
+232,Malabar Pied-Hornbill,4,Ganeshgudi Supa dam,IN-KA,24 Dec 2014,L5121333,S32832868
+233,Oriental Pied-Hornbill,2,"Neora Jungle Camp, Gorumara NP",IN-WB,16 Dec 2016,L5165548,S33127997
+234,Common Kingfisher,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+235,Stork-billed Kingfisher,1,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+236,White-throated Kingfisher,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+237,Black-capped Kingfisher,1,"Galibore Fishing Camp, Karnataka",IN-KA,19 Apr 2015,L3556994,S22938127
+238,Pied Kingfisher,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+239,Blue-bearded Bee-eater,1,Bannerghatta Zoo area,IN-KA,18 Jan 2015,L2576683,S21393248
+240,Green Bee-eater,2,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+241,Blue-tailed Bee-eater,8,NH209 Kanakapura Road,IN-KA,22 Feb 2015,L3439068,S22071661
+242,European Bee-eater,3,Cauvery WLS-Sangam Range,IN-KA,01 Oct 2016,L4964670,S31867864
+243,Chestnut-headed Bee-eater,2,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+244,European Roller,1,Bellary Bangalore Road,IN-KA,12 Nov 2015,L4936902,S31672326
+245,Indian Roller,3,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+246,Dollarbird,1,Dr Salim Ali Bird Sanctuary Thattekad,IN-KL,04 Oct 2015,L3953611,S25388951
+247,Malabar Barbet,1,Thattekad bird sanctuary Urulanthanni,IN-KL,05 Mar 2017,L5719986,S36093641
+248,Coppersmith Barbet,4,"Hulimangala, Bangalore",IN-KA,16 Nov 2014,L2591349,S32125659
+249,Great Barbet,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+250,Lineated Barbet,1,Kaziranga NP--Western Range,IN-AS,27 Dec 2015,L1131604,S26580943
+251,Brown-headed Barbet,1,Muthathi,IN-KA,26 Jun 2016,L4743747,S30522104
+252,White-cheeked Barbet,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
+253,Blue-throated Barbet,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+254,Eurasian Wryneck,1,"Bhandup Pumping Station, Mumbai",IN-MH,05 Nov 2015,L2930709,S25835490
+255,Red-bellied Woodpecker,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
+256,Brown-capped Woodpecker,1,"Galibore Fishing Camp, Karnataka",IN-KA,19 Apr 2015,L3556994,S22938127
+257,Gray-capped Woodpecker,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+258,Fulvous-breasted Woodpecker,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+259,Yellow-crowned Woodpecker,1,Daroji Forest Guest House,IN-KA,17 Jan 2016,L4938710,S31685531
+260,Downy Woodpecker,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
+261,White-bellied Woodpecker,1,"River Tern Lodge, JLR, Karnataka",IN-KA,23 May 2015,L3684021,S23703523
+262,Lesser Yellownape,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+263,Streak-throated Woodpecker,1,Bandipur NP--Forest Headquarters,IN-KA,23 Aug 2015,L2386799,S24948339
+264,Himalayan Flameback,1,Khagrabari,IN-WB,21 Jun 2015,L4938672,S25556459
+265,Common Flameback,1,"Bhadra WLS, Karnataka",IN-KA,24 May 2015,L3894783,S24954247
+266,Black-rumped Flameback,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+267,Rufous Woodpecker,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+268,Greater Flameback,1,Bandipur NP--Forest Headquarters,IN-KA,23 Aug 2015,L2386799,S24948339
+269,White-naped Woodpecker,,Ravuthenahalli Lake,IN-KA,31 Jan 2016,L4922237,S27245470
+270,Heart-spotted Woodpecker,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+271,Eurasian Kestrel,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+272,Red-necked Falcon,,Bande,IN-KA,27 Feb 2016,L4313934,S31559561
+273,Amur Falcon,1,Malampuzha Reservoir (North),IN-KL,05 Mar 2017,L5178700,S35060517
+274,Peregrine Falcon,1,"Hulimangala, Bangalore",IN-KA,15 Dec 2015,L2591349,S26329322
+275,Alexandrine Parakeet,1,Gulakamale Lake,IN-KA,18 Jan 2015,L3270308,S21391759
+276,Rose-ringed Parakeet,4,"Hulimangala, Bangalore",IN-KA,16 Nov 2014,L2591349,S32125659
+277,Plum-headed Parakeet,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+278,Malabar Parakeet,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+279,Red-breasted Parakeet,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+280,Vernal Hanging-Parrot,1,Nameri NP,IN-AS,30 Dec 2015,L2182902,S26580921
+281,Silver-breasted Broadbill,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+282,Indian Pitta,1,Cauvery WLS--Galibore,IN-KA,11 Apr 2015,L3025529,S22813096
+283,Large Woodshrike,1,"West Bengal-Jayanti, BTR",IN-WB,11 Dec 2016,L4012351,S33129502
+284,Common Woodshrike,1,"Jaipurdodi, Bangalore",IN-KA,29 May 2016,L2612150,S30033282
+285,Ashy Woodswallow,1,"River Tern Lodge, JLR, Karnataka",IN-KA,23 May 2015,L3684021,S23703523
+286,Common Iora,1,Valley School,IN-KA,26 Jan 2015,L2407941,S21547306
+287,White-bellied Minivet,2,Linganapura,IN-KA,16 Jul 2016,L4796102,S30742509
+288,Small Minivet,1,Valley School,IN-KA,18 Jan 2015,L2407941,S21393253
+289,Gray-chinned Minivet,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+290,Long-tailed Minivet,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+291,Orange Minivet,2,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+292,Scarlet Minivet,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+293,Large Cuckooshrike,1,Valley School,IN-KA,29 Mar 2015,L2407941,S22568085
+294,Black-headed Cuckooshrike,1,Valley School,IN-KA,17 Sep 2015,L2407941,S25076232
+295,Brown Shrike,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+296,Bay-backed Shrike,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+297,Long-tailed Shrike,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+298,Gray-backed Shrike,1,"Gibbon Sanctuary, Assam",IN-AS,27 Dec 2015,L4275893,S27604851
+299,White-eyed Vireo,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
+300,Indian Golden Oriole,1,Valley School,IN-KA,18 Jan 2015,L2407941,S21393253
+301,Black-naped Oriole,1,"Hulimangala, Bangalore",IN-KA,16 Nov 2014,L2591349,S32125659
+302,Black-hooded Oriole,1,"K Gudi, BR Hills, KA",IN-KA,26 Sep 2015,L3934022,S31574698
+303,Maroon Oriole,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+304,Black Drongo,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+305,Ashy Drongo,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+306,White-bellied Drongo,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+307,Bronzed Drongo,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+308,Lesser Racket-tailed Drongo,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+309,Spangled Drongo,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+310,Greater Racket-tailed Drongo,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+311,White-throated Fantail,1,"Gibbon Sanctuary, Assam",IN-AS,27 Dec 2015,L4275893,S27604851
+312,Spot-breasted Fantail,2,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+313,White-browed Fantail,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+314,Black-naped Monarch,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+315,Indian Paradise-Flycatcher,2,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+316,Blue Jay,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
+317,Rufous Treepie,1,Valley School,IN-KA,26 Jan 2015,L2407941,S21547306
+318,White-bellied Treepie,1,Dr Salim Ali Bird Sanctuary Thattekad,IN-KL,03 Oct 2015,L3953611,S25388771
+319,House Crow,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+320,Large-billed Crow,1,Uttarahalli Lake,IN-KA,31 Jan 2015,L3328368,S21609757
+321,Rufous-tailed Lark,1,NH209 Kanakapura Road,IN-KA,22 Feb 2015,L3439068,S22071661
+322,Ashy-crowned Sparrow-Lark,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+323,Jerdon's Bushlark,1,"Hulimangala, Bangalore",IN-KA,16 Nov 2014,L2591349,S32125659
+324,Indian Bushlark,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+325,Greater Short-toed Lark,1,Thippagondanahalli (TG Halli) Reservoir,IN-KA,18 Oct 2015,L2525564,S31560055
+326,Oriental Skylark,,Hessaraghatta Lake,IN-KA,14 Feb 2016,L2525708,S31943651
+327,Tawny Lark,1,Thippagondanahalli (TG Halli) Reservoir,IN-KA,18 Oct 2015,L2525564,S31560055
+328,Dusky Crag-Martin,3,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+329,Barn Swallow,10,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+330,Wire-tailed Swallow,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+331,Red-rumped Swallow,18,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+332,Streak-throated Swallow,,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+333,Gray-headed Canary-Flycatcher,3,"Gibbon Sanctuary, Assam",IN-AS,27 Dec 2015,L4275893,S27604851
+334,Sultan Tit,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+335,Green-backed Tit,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
+336,Cinereous Tit,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+337,Indian Tit,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+338,Black-throated Tit,1,"Lava, Darjeeling district ",IN-WB,20 Jun 2015,L4907244,S31459801
+339,Indian Nuthatch,1,"K Gudi, BR Hills, KA",IN-KA,26 Sep 2015,L3934022,S31574698
+340,Chestnut-bellied Nuthatch,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+341,White-tailed Nuthatch,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+342,Velvet-fronted Nuthatch,1,"Old Magazine House, Ganeshgudi",IN-KA,24 Dec 2014,L2034087,S32865515
+343,Sikkim Treecreeper,1,"Lava, Darjeeling district ",IN-WB,20 Jun 2015,L4907244,S31459801
+344,Flame-throated Bulbul,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+345,Black-crested Bulbul,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+346,Red-vented Bulbul,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+347,Red-whiskered Bulbul,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+348,White-eared Bulbul,1,"Bhandup Pumping Station, Mumbai",IN-MH,05 Nov 2015,L2930709,S25835490
+349,Yellow-throated Bulbul,3,Ramanagara Vulture Sanctuary,IN-KA,07 Feb 2015,L3601857,S23141984
+350,White-browed Bulbul,1,Gulakamale Lake,IN-KA,18 Jan 2015,L3270308,S21391759
+351,Yellow-browed Bulbul,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+352,Black Bulbul,2,Neora Valley National Park,IN-WB,20 Jun 2015,L3644134,S31716974
+353,Square-tailed Bulbul,2,Medikeri eco camp,IN-KA,11 Feb 2017,L5436821,S34375080
+354,Tickell's Leaf Warbler,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+355,Green Warbler,1,"Kenjar, near new Railway station, Mangalore",IN-KA,24 Dec 2016,L5510469,S33258611
+356,Greenish Warbler,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+357,Tytler's Leaf Warbler,1,"Nandi Hills, Bangalore",IN-KA,21 Mar 2015,L3506052,S22466315
+358,Blyth's Leaf Warbler,1,"Gibbon Sanctuary, Assam",IN-AS,27 Dec 2015,L4275893,S27604851
+359,Booted Warbler,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+360,Paddyfield Warbler,1,Hennagara Lake,IN-KA,29 Mar 2016,L2638593,S30464585
+361,Blyth's Reed-Warbler,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+362,Clamorous Reed-Warbler,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+363,Zitting Cisticola,1,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+364,Common Tailorbird,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+365,Dark-necked Tailorbird,1,Rasik beel,IN-WB,13 Dec 2016,L5148097,S33023464
+366,Rufous-fronted Prinia,1,"River Tern Lodge, JLR, Karnataka",IN-KA,23 May 2015,L3684021,S23703523
+367,Gray-breasted Prinia,1,"Manchanabele, Karnataka",IN-KA,16 May 2015,L3646725,S23467965
+368,Jungle Prinia,1,Valley School,IN-KA,29 Aug 2015,L2407941,S24801834
+369,Ashy Prinia,1,"Hulimangala, Bangalore",IN-KA,16 Nov 2014,L2591349,S32125659
+370,Plain Prinia,1,"Hulimangala, Bangalore",IN-KA,16 Nov 2014,L2591349,S32125659
+371,Hume's Whitethroat,1,"Madhure Kere, Bangalore",IN-KA,13 Mar 2016,L2525563,S28482414
+372,Lesser Whitethroat,,Hessaraghatta Lake,IN-KA,14 Feb 2016,L2525708,S31943651
+373,Yellow-eyed Babbler,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+374,Oriental White-eye,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+375,Tawny-bellied Babbler,1,"Nandi Hills, Bangalore",IN-KA,21 Mar 2015,L3506052,S22466315
+376,Dark-fronted Babbler,2,"Old Magazine House, Ganeshgudi",IN-KA,24 Dec 2014,L2034087,S32865515
+377,Indian Scimitar-Babbler,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+378,Puff-throated Babbler,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+379,Abbott's Babbler,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+380,Brown-cheeked Fulvetta,1,"Bhagavathi Nature Camp, Kudremukh",IN-KA,19 Sep 2015,L3922057,S25131137
+381,Striated Laughingthrush,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
+382,Common Babbler,1,Daroji Bear Sanctuary,IN-KA,10 Nov 2015,L2607098,S26601607
+383,Large Gray Babbler,1,Valley School,IN-KA,26 Jan 2015,L2407941,S21547306
+384,Rufous Babbler,1,Valley School,IN-KA,05 Sep 2015,L2407941,S24921501
+385,Jungle Babbler,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+386,Yellow-billed Babbler,1,"Nandi Hills, Bangalore",IN-KA,21 Mar 2015,L3506052,S22466315
+387,Rufous-necked Laughingthrush,1,Phuentsholing,BT-12,15 Jun 2015,L5103489,S32705626
+388,Red-billed Leiothrix,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
+389,Asian Fairy-bluebird,1,"Bhagavathi Nature Camp, Kudremukh",IN-KA,19 Sep 2015,L3922057,S25131137
+390,Asian Brown Flycatcher,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+391,Brown-breasted Flycatcher,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+392,Indian Robin,5,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+393,Oriental Magpie-Robin,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+394,White-rumped Shama,1,"Old Magazine House, Ganeshgudi",IN-KA,24 Dec 2014,L2034087,S32865515
+395,White-bellied Blue-Flycatcher,2,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+396,Tickell's Blue-Flycatcher,1,Bannerghatta Zoo area,IN-KA,18 Jan 2015,L2576683,S21393248
+397,Large Niltava,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+398,Small Niltava,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+399,Verditer Flycatcher,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+400,Indian Blue Robin,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+401,Malabar Whistling-Thrush,1,Nandi Hills,IN-KA,29 Mar 2017,L3150186,S35509850
+402,Blue Whistling-Thrush,1,"Lava, Darjeeling district ",IN-WB,20 Jun 2015,L4907244,S31459801
+403,Slaty-blue Flycatcher,1,Dibru-Saikhowa NP,IN-AS,08 Apr 2016,L3612445,S33746355
+404,Little Pied Flycatcher,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+405,Ultramarine Flycatcher,1,Bannerghatta Zoo area,IN-KA,18 Jan 2015,L2576683,S21393248
+406,Taiga Flycatcher,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+407,Red-breasted Flycatcher,1,"Nandi Hills, Bangalore",IN-KA,21 Mar 2015,L3506052,S22466315
+408,Plumbeous Redstart,2,Murti riverbed,IN-WB,15 Dec 2016,L2641374,S33026724
+409,Chestnut-bellied Rock-Thrush,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
+410,Blue-capped Rock-Thrush,2,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+411,Blue Rock-Thrush,1,Ramanagara Vulture Sanctuary,IN-KA,07 Feb 2015,L3601857,S23141984
+412,Siberian Stonechat,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+413,Pied Bushchat,2,"Hulimangala, Bangalore",IN-KA,16 Nov 2014,L2591349,S32125659
+414,Gray Bushchat,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
+415,Pied Thrush,1,"Nandi Hills, Bangalore",IN-KA,21 Mar 2015,L3506052,S22466315
+416,Orange-headed Thrush,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+417,Scaly Thrush,1,Nameri NP,IN-AS,30 Dec 2015,L2182902,S26580921
+418,Black-breasted Thrush,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+419,Gray-winged Blackbird,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
+420,Indian Blackbird,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+421,Green Cochoa,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+422,Common Hill Myna,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+423,Southern Hill Myna,1,"Bhagavathi Nature Camp, Kudremukh",IN-KA,19 Sep 2015,L3922057,S25131137
+424,Rosy Starling,4,"Hulimangala, Bangalore",IN-KA,16 Nov 2014,L2591349,S32125659
+425,Asian Pied Starling,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+426,Brahminy Starling,1,"Kaikondanahalli Kere, Bangalore",IN-KA,25 Jan 2015,L2525724,S21547422
+427,Chestnut-tailed Starling,2,Sira Lake and wetlands,IN-KA,01 Feb 2015,L3331606,S21629398
+428,Malabar Starling,1,"Old Magazine House, Ganeshgudi",IN-KA,24 Dec 2014,L2034087,S32865515
+429,Common Myna,2,"Hulimangala, Bangalore",IN-KA,16 Nov 2014,L2591349,S32125659
+430,Bank Myna,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+431,Jungle Myna,1,Rasikbill,IN-WB,25 Dec 2013,L4938675,S23577191
+432,Jerdon's Leafbird,1,"Cubbon Park, Bangalore",IN-KA,08 Mar 2015,L2525703,S22227435
+433,Golden-fronted Leafbird,1,"Old Magazine House, Ganeshgudi",IN-KA,25 Dec 2014,L2034087,S32865741
+434,Orange-bellied Leafbird,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+435,Thick-billed Flowerpecker,1,Valley School,IN-KA,10 Oct 2015,L2407941,S25389222
+436,Pale-billed Flowerpecker,2,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+437,Nilgiri Flowerpecker,1,Bandipur Jungle Lodges,IN-KA,22 Aug 2015,L3867994,S24749677
+438,Fire-breasted Flowerpecker,1,Neora Valley National Park,IN-WB,20 Jun 2015,L3644134,S31716974
+439,Ruby-cheeked Sunbird,1,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+440,Purple-rumped Sunbird,3,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+441,Crimson-backed Sunbird,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+442,Purple Sunbird,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+443,Olive-backed Sunbird,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+444,Long-billed Sunbird,1,"Galibore Fishing Camp, Karnataka",IN-KA,19 Apr 2015,L3556994,S22938127
+445,Green-tailed Sunbird,1,"Lava, Darjeeling district ",IN-WB,19 Jun 2015,L4907244,S31459798
+446,Crimson Sunbird,1,Khagrabari,IN-WB,21 Jun 2015,L4938672,S25556459
+447,Little Spiderhunter,1,"West Bengal-Jayanti, BTR",IN-WB,11 Dec 2016,L4012351,S33129502
+448,Streaked Spiderhunter,1,Nameri NP,IN-AS,29 Dec 2015,L2182902,S26580915
+449,Western Yellow Wagtail,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
+450,Citrine Wagtail,1,Kaziranga NP--Eastern Range,IN-AS,28 Dec 2015,L1131599,S30342446
+451,Gray Wagtail,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
+452,White Wagtail,1,Kavdi ,IN-MH,23 Dec 2014,L4775757,S30628576
+453,White-browed Wagtail,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+454,Richard's Pipit,1,"kenjar, Mangalore",IN-KA,06 May 2017,L5111866,S36614707
+455,Paddyfield Pipit,1,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+456,Long-billed Pipit,1,"Ramdevara Betta, Ramanagara",IN-KA,28 Feb 2016,L2573077,S31559597
+457,Tawny Pipit,1,Hennagara Lake,IN-KA,10 Nov 2016,L2638593,S32472251
+458,Tree Pipit,7,Thippagondanahalli (TG Halli) Reservoir,IN-KA,24 Jan 2016,L2525564,S31561984
+459,Olive-backed Pipit,1,"Nandi Hills, Bangalore",IN-KA,21 Mar 2015,L3506052,S22466315
+460,Red-headed Bunting,6,Tungabhadra Right Canal,IN-KA,16 Jan 2016,L4873896,S31685463
+461,Northern Cardinal,1,Naples beach,US-FL,22 Oct 2014,L3357295,S21780768
+462,Brown Bullfinch,2,Neora Valley National Park,IN-WB,20 Jun 2015,L3644134,S31716974
+463,House Sparrow,4,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+464,Eurasian Tree Sparrow,2,Phuentsholing,BT-12,15 Jun 2015,L5103489,S32705626
+465,Chestnut-shouldered Petronia,2,Linganapura,IN-KA,16 Jul 2016,L4796102,S30742509
+466,Streaked Weaver,2,Bande,IN-KA,20 Feb 2016,L4298778,S31560423
+467,Baya Weaver,1,Ranganthittu Bird Santuary,IN-KA,05 Apr 2015,L3540081,S22696819
+468,Red Avadavat,4,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+469,Indian Silverbill,4,"Hulimangala, Bangalore",IN-KA,16 Nov 2014,L2591349,S32125659
+470,White-rumped Munia,1,"Old Magazine House, Ganeshgudi",IN-KA,15 Jan 2014,L2034087,S23676592
+471,Black-throated Munia,1,"Bhagavathi Nature Camp, Kudremukh",IN-KA,19 Sep 2015,L3922057,S25131137
+472,Scaly-breasted Munia,6,Hoskote Lake,IN-KA,07 Dec 2014,L1967106,S20826011
+473,Tricolored Munia,5,"Manchanabele, Bangalore",IN-KA,16 Aug 2015,L3853140,S24641592
