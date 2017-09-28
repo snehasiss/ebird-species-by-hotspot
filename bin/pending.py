@@ -29,15 +29,19 @@ class pending:
 
 		for key in self.dbase.keys():
 			if self.dbase.get (key):
+				if "sp." in key:
+					continue
+				if "/" in key:
+					continue
 				print key
 
 if __name__ == '__main__':
-	lifer = 'ebird_world_life_list.csv'
+	lifer = 'data/ebird_world_life_list.csv'
 	area  = 'L1933806-mysore-indraprastha.csv'
 
-	if len (sys.argv) > 2:
-		lifer = sys.argv[1]
-		area  = sys.argv[2]
+	if len (sys.argv) > 1:
+		#lifer = sys.argv[1]
+		area  = sys.argv[1]
 		try:
 			p = pending ({'lifer': lifer, 'area': area})
 			p.write()

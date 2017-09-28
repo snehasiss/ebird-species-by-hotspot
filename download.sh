@@ -15,7 +15,8 @@ BINDIR="bin"
 DATADIR="data"
 
 SCRIPT="html-csv.py"
-WGET="wget -qO "
+#WGET="wget -qO "
+WGET="wget -O "
 URL="http://ebird.org/ebird/printableList?regionCode=${CODE}&yr=all&m="
 
 # clear any previous download
@@ -23,6 +24,7 @@ rm -f ${DATADIR}/${LOCATION}.{html,csv}
 
 # download printable html
 ${WGET} ${DATADIR}/${LOCATION}.html $URL
+echo "${WGET} ${DATADIR}/${LOCATION}.html $URL"
 
 # create csv from html
 python ${BINDIR}/${SCRIPT} ${DATADIR}/${LOCATION}.html > ${DATADIR}/${LOCATION}.csv
