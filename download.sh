@@ -14,7 +14,7 @@ LOCATION="${1}-${2}"
 BINDIR="bin"
 DATADIR="data"
 
-SCRIPT="html-csv.py"
+SCRIPT="convert.py"
 #WGET="wget -qO "
 WGET="wget -O "
 URL="http://ebird.org/ebird/printableList?regionCode=${CODE}&yr=all&m="

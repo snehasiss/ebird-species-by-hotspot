@@ -22,8 +22,8 @@ class unique:
 if __name__ == '__main__':
 	u = unique()
 	for arg in sys.argv[1:]:
-		print '  adding ' + arg
+		print >> sys.stderr, '  adding ' + arg
 		u.read ( arg )
 
-	print 'writing output:'
+	print >> sys.stderr, 'writing output:'
 	u.write ()

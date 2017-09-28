@@ -19,7 +19,7 @@ in Mysore or L2525708 is the LocID for Hessaraghatta Lakebed in Bangalore. LocID
 ebird.org
 
 ```
-$ bash download.sh L2525708 blore-hessaraghatta
+$ bash download.sh L3102772 tn-dhanushkodi
 ```
 
 This will download html, format in csv and store in data folder.
@@ -32,8 +32,19 @@ pending.py will produce a list of species that is available in a specific locati
 lifer list.
 
 ```
-$ python bin/pending.py data/lifer.csv data/L2525708-blore-hessaraghatta.csv
+$ python bin/pending.py data/L3102772-tn-dhanushkodi.csv
 ```
+
+Merge checklists from an area
+-----------------------------
+
+Often, it is required to merge a few checklists from adjoining hotspots into one area before finding 
+the target (pending) species list for that area. Here is how to merge.
+
+```
+$ python bin/merge.py data/L3102772-tn-dhanushkodi.csv L3147937-tn-ramanathapuram.csv
+```
+
 
 Dependency
 ----------
@@ -44,6 +55,6 @@ changed to pure python way of downloading file - in the backlog)
 
 Copyright and License
 ---------------------
-(C) Snehasis Sinha, 2016
+(C) Snehasis Sinha, 2017
 
 This software is free for use, under Apache Licence 2.0
