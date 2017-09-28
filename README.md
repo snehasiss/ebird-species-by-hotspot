@@ -42,7 +42,7 @@ Often, it is required to merge a few checklists from adjoining hotspots into one
 the target (pending) species list for that area. Here is how to merge.
 
 ```
-$ python bin/merge.py data/L3102772-tn-dhanushkodi.csv L3147937-tn-ramanathapuram.csv
+$ python bin/merge.py data/L3102772-tn-dhanushkodi.csv data/L3147937-tn-ramanathapuram.csv > data/tn-rameswaram.csv
 ```
 
 
