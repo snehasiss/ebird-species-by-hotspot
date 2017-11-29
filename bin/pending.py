@@ -40,7 +40,7 @@ if __name__ == '__main__':
 	area  = 'L1933806-mysore-indraprastha.csv'
 
 	if len (sys.argv) > 1:
-		#lifer = sys.argv[1]
+		lifer = sys.argv[2] 
 		area  = sys.argv[1]
 		try:
 			p = pending ({'lifer': lifer, 'area': area})
